@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\layout-adm"
 		}
 	],
 	"settings": {}
